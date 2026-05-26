@@ -7,11 +7,13 @@ A local VPN server which helps you manage Internet traffic coming out of your de
 -   Backing up/restoring database.
 -   Auto-update.
 
+Languages supported: Persian, Chinese, Russian, English.
+
 ##  Downloads
 
 | Operating System | Version                   | Release Date |
 | ---------------- | ------------------------- | ------------ |
-| Android          | [`0.2.0`][apk:vpn-bad]    | `2026-01-01` |
+| Android          | [`0.2.1`][apk:vpn-bad]    | `2026-05-26` |
 
 ##  Android screenshots
 
@@ -29,4 +31,4 @@ A local VPN server which helps you manage Internet traffic coming out of your de
 
 ![](vpn-bad/screenshots/android/0.1.11/06.png)
 
-[apk:vpn-bad]: https://drive.google.com/file/d/19QZkialGxDPQwbyBlEjBjZT_R9VquDc4/view?usp=sharing
+[apk:vpn-bad]: https://drive.google.com/file/d/1KhosHwShwhtW7-4OvH0tgHqsKhdUkPmB/view?usp=sharing
