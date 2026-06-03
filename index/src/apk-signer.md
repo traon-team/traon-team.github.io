@@ -7,6 +7,6 @@ nowadays is just a bureaucratic place.
 
 | Version                     | Release Date |
 | --------------------------- | ------------ |
-| [`7.3.11` (`121`)][apk:121] | `2026-01-19` |
+| [`7.3.12` (`122`)][apk:122] | `2026-06-03` |
 
-[apk:121]: https://drive.google.com/file/d/1ZIUswIMWmNCxMks2FGhEXOzN-QRBTFC7/view?usp=sharing
+[apk:122]: https://drive.google.com/file/d/1cssDlhttata3nT7fVUlgv9MQ5kGC0AH9/view?usp=sharing
