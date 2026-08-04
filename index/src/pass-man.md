@@ -10,10 +10,10 @@ Languages supported: Persian, Chinese, Russian, English.
 
 ##  Downloads
 
-| Operating System | Version                             | Release Date | Notes
-| ---------------- | ----------------------------------- | ------------ | -----
-| Android          | [`0.2.9`/Internet][apk:auto-update] | `2026-05-26` | Internet permission is required for the auto-update functionality, which operates independently of any app store.
-| Android          | [`0.2.9`][apk:no-internet]          | `2026-05-26` | No Internet permission needed. This file is a direct copy of the official Play Store release.
+| Operating System | Version                              | Release Date | Notes
+| ---------------- | ------------------------------------ | ------------ | -----
+| Android          | [`0.2.10`/Internet][apk:auto-update] | `2026-08-04` | Internet permission is required for the auto-update functionality, which operates independently of any app store.
+| Android          | [`0.2.10`][apk:no-internet]          | `2026-08-04` | No Internet permission needed.
 
 ##  Android screenshots
 
@@ -29,7 +29,7 @@ Languages supported: Persian, Chinese, Russian, English.
 
 ![](pass-man/screenshots/android/0.2.0/05.png)
 
-[apk:auto-update]: https://drive.google.com/file/d/18gH01w_PocLQd_xCawkRVv2Fi54ElBa9/view?usp=sharing
-[apk:no-internet]: https://drive.google.com/file/d/1hlujMTl4Eqvem32eDXNXoquOVdYX__VY/view?usp=sharing
+[apk:auto-update]: https://drive.google.com/file/d/1UTWkXd-zCgE4wxF9Hl5qh8PAQXVgWc0y/view?usp=sharing
+[apk:no-internet]: https://drive.google.com/file/d/1ggoEZ0JxZeHt6cn-T0MJ--NeyjnhWsaF/view?usp=sharing
 [site:argon2]: https://www.cryptolux.org/index.php/Argon2
 [site:xchacha20-poly1305]: https://en.wikipedia.org/wiki/ChaCha20-Poly1305
