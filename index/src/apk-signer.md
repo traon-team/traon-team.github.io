@@ -5,9 +5,11 @@ bureaucratic place.
 
 ##  The new app
 
+The "Play" version can be found here: <https://play.google.com/store/apps/details?id=apk.signer&hl=en>
+
 | Version                | Release Date |
 | ---------------------- | ------------ |
-| [`0.1.2` (`3`)][apk:3] | `2026-09-16` |
+| [`0.1.3` (`4`)][apk:4] | `2026-09-19` |
 
 ### Android screenshots
 
@@ -35,6 +37,6 @@ The Android app can be found here: <https://play.google.com/store/apps/details?i
 | ------------------------------ | ------------ |
 | [`7.4.0` (`127`)][old-apk:127] | `2026-09-15` |
 
-[apk:3]: https://drive.google.com/file/d/1SeODixw9yt7soE_89dkpzaipZtc2xtoY/view?usp=sharing
+[apk:4]: https://drive.google.com/file/d/1xN7kfo4XKnBgTY6tM2hWrWdXvqDkeZmq/view?usp=sharing
 
 [old-apk:127]: https://drive.google.com/file/d/1KDxYhDTFvOsu1_4cGPWLsi2Tl8BnBFp-/view?usp=sharing
