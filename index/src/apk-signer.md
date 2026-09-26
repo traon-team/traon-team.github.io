@@ -7,7 +7,7 @@ bureaucratic place.
 
 | Amateur Version        | Release Date |
 | ---------------------- | ------------ |
-| [`0.1.4` (`5`)][apk:5] | `2026-09-25` |
+| [`0.1.5` (`6`)][apk:6] | `2026-09-26` |
 
 The "Play" version can be found here: <https://play.google.com/store/apps/details?id=apk.signer&hl=en>
 
@@ -37,6 +37,6 @@ The "Play" version can be found here: <https://play.google.com/store/apps/detail
 
 The Android app can be found here: <https://play.google.com/store/apps/details?id=com.haibison.apksigner&hl=en>
 
-[apk:5]: https://drive.google.com/file/d/1nPMIv0vZt89168z2dEJR71r2VCsz31ac/view?usp=sharing
+[apk:6]: https://drive.google.com/file/d/10kymHOLMlckJIa9WqzUZlKK35nU9Zc1M/view?usp=sharing
 
 [old-apk:127]: https://drive.google.com/file/d/1KDxYhDTFvOsu1_4cGPWLsi2Tl8BnBFp-/view?usp=sharing
