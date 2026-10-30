@@ -5,9 +5,9 @@ bureaucratic place.
 
 ##  The new app
 
-| Amateur Version        | Release Date |
-| ---------------------- | ------------ |
-| [`0.1.8` (`9`)][apk:9] | `2026-10-24` |
+| Amateur Version          | Release Date |
+| ------------------------ | ------------ |
+| [`0.1.9` (`10`)][apk:10] | `2026-10-30` |
 
 The "Play" version can be found here: <https://play.google.com/store/apps/details?id=apk.signer&hl=en>
 
@@ -37,6 +37,6 @@ The "Play" version can be found here: <https://play.google.com/store/apps/detail
 
 The Android app can be found here: <https://play.google.com/store/apps/details?id=com.haibison.apksigner&hl=en>
 
-[apk:9]: https://drive.google.com/file/d/1l12uC-33PjoRPzISJAPlERJvOZqs3c6z/view?usp=sharing
+[apk:10]: https://drive.google.com/file/d/1K57GVY2yITBRXvxJzz0SYTpFmhRdMrLz/view?usp=sharing
 
 [old-apk:127]: https://drive.google.com/file/d/1KDxYhDTFvOsu1_4cGPWLsi2Tl8BnBFp-/view?usp=sharing
