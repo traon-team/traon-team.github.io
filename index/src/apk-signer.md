@@ -33,10 +33,10 @@ The "Play" version can be found here: <https://play.google.com/store/apps/detail
 
 | Amateur Version                | Release Date |
 | ------------------------------ | ------------ |
-| [`7.4.3` (`200`)][old-apk:200] | `2026-11-05` |
+| [`7.4.4` (`201`)][old-apk:201] | `2026-11-06` |
 
 The Android app can be found here: <https://play.google.com/store/apps/details?id=com.haibison.apksigner&hl=en>
 
 [apk:11]: https://drive.google.com/file/d/1rZ8ydkXLfjcjhBy9ZldrUBYyrYAtjjty/view?usp=sharing
 
-[old-apk:200]: https://drive.google.com/file/d/1qs1lnvxcS-dpsiEKJU-G0L6HlgPzQ5Nj/view?usp=sharing
+[old-apk:201]: https://drive.google.com/file/d/1j-EDupgqUGprowTK9Ic_pAoDt9pbWsuQ/view?usp=sharing
