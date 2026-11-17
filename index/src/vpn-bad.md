@@ -13,7 +13,7 @@ Languages supported: Persian, Chinese, Russian, English.
 
 | Operating System | Version                    | Release Date |
 | ---------------- | -------------------------- | ------------ |
-| Android          | [`0.2.10`][apk:vpn-bad]    | `2026-08-02` |
+| Android          | [`0.2.11`][apk:vpn-bad]    | `2026-11-17` |
 
 ##  Android screenshots
 
@@ -31,4 +31,4 @@ Languages supported: Persian, Chinese, Russian, English.
 
 ![](vpn-bad/screenshots/android/0.1.11/06.png)
 
-[apk:vpn-bad]: https://drive.google.com/file/d/1DdeYBq8nQ4HB4hm7Z0-0lWNsEEVi3LZq/view?usp=sharing
+[apk:vpn-bad]: https://drive.google.com/file/d/10-gjVaNob9Zco61E8DYFfTPa0QlJ0ZVJ/view?usp=sharing
